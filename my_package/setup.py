@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
 	name='my_package',
 	version='1.0',
-	url='https://github.com/MalikaL17/usefool_tips/my_package',
+	url='https://github.com/MalikaL17/usefull_tips/my_package',
 	author='Malika',
 	author_email='some@email.com',
 	description='This is my first test package',
