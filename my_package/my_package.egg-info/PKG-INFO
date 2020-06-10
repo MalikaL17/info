@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: my-package
+Version: 1.0
+Summary: This is my first test package
+Home-page: https://github.com/MalikaL17/usefull_tips/my_package
+Author: Malika
+Author-email: some@email.com
+License: UNKNOWN
+Description: This is my first package!
+Platform: UNKNOWN
